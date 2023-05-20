@@ -3,8 +3,8 @@
 This is code that accompanies the paper titled "Dynamic Structured Neural Topic Model with Self-Attention Mechanism" in Findings of ACL2023.
 
 ## Dependencies
-+ python 3.9.0
-+ pytorch 1.1.0
++ python 3.9.13
++ pytorch 1.9.0
 
 ## Datasets
 
